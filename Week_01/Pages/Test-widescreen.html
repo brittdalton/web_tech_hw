@@ -20,18 +20,18 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("./Images/01.jpeg");
+  background-image: url("../Images/01.jpeg");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("./Images/02.jpeg");
+  background-image: url("../Images/02.jpeg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("./Images/03.jpeg");
-  min-height: 100%;
+  background-image: url("../Images/03.jpeg");
+  min-height: 400px;
 }
 
 .caption {
@@ -58,24 +58,12 @@ h3 {
   color: #111;
 }
 
-a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+  }
 }
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-
-
 </style>
 </head>
 <body>
@@ -101,38 +89,24 @@ a:hover {
 <div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:120px 80px;text-align: center;">
   <p>University of Montana | BFA Digital Art & Technology</p>
-  <br>
-  <p>Born and raised in Missoula. I am not a traditional student, I joined the Military after high school and came home to go to school after I got out. I am a Media Arts major but also have taken many courses in the traditional arts, specifically photography and painting. </p>
   </div>
 </div>
 
-
 <div class="bgimg-3">
   <div class="caption">
-  <span class="border">Web Tech Homework</span>
+  <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Veteran | Roots in Montana</span>
   </div>
 </div>
 
 <div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:120px 80px;text-align: justify;">
-  <p>
-      Weekly Assignments
-      <br>
-      <br>
-      <a href="http://www.google.com">Week Two | Title</a>
-      <br>
-      <br>
-      <a href="http://www.google.com">Week Three | Title</a>
-      <br>
-      <br>
-      <a href="http://www.google.com">Week Four | Title</a>
-      <br>
-      <br>
-      <a href="http://www.google.com">Week Five | Title</a>
-      <br>
-      <br>
-      Content will be added as it becomes available
-  </p>
+  <p>Born and raised in Missoula. I am not a traditional student, I joined the Military after high school and came home to go to school after I got out. I am a Media Arts major but also have taken many courses in the traditional arts, specifically photography and painting. </p>
+  </div>
+</div>
+
+<div class="bgimg-1">
+  <div class="caption">
+  <span class="border">Britt Dalton</span>
   </div>
 </div>
 

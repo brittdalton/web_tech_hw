@@ -20,6 +20,12 @@
 
 
 ##### What steps did you take to complete the assignment? #####
+1. Design Layout
+2. Formated design around focus areas
+3. Responisve Web Design
+4. Parallax Scrolling
+5. Write content - personal bio
+6. Added links for HW as this is our main page website
 
 ###### GitHub and Atom ######
 1. Create account Github.com
