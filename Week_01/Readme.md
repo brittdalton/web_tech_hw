@@ -16,7 +16,7 @@
 * Personalizing themes/packages for text editor for GitHub
 * Overview of collaboration and public source code
 ---
-* Begin to use markdown by structuring week 01 summary
+* Begin to use markdown by structuring week 1 summary
 
 
 ##### What steps did you take to complete the assignment? #####
