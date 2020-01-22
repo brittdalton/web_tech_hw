@@ -16,16 +16,16 @@
 * Personalizing themes/packages for text editor for GitHub
 * Overview of collaboration and public source code
 ---
-* Begin to use markdown by structuring week 02 summary
+* Begin to use markdown by structuring week 01 summary
 
 
 ##### What steps did you take to complete the assignment? #####
 1. Design Layout
-2. Formated design around focus areas
-3. Responisve Web Design
+2. Formatted design around focus areas
+3. Responsive Web Design
 4. Parallax Scrolling
-5. Write content - personal bio
-6. Added links for HW as this is our main page website
+5. Write content - consulting website
+6. Added links for HW to the main page website
 
 ###### GitHub and Atom ######
 1. Create account Github.com
