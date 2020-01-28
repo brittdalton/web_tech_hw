@@ -2,8 +2,6 @@
 
 ## Weekly Summary ##
 
-##### This week's work #####
-
 * Review [MART341 Box Model](https://montana-media-arts.github.io/mart341-webDev/modules/week-9/overview/)
 * Review [MART341 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
 * Review [MART341 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
