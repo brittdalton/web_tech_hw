@@ -46,6 +46,7 @@
 
 ###### Script Tag ######
 **<script> </script>**
+
 **<script src="URL-to-file.js"></script>**
 >The script tag <script> </script> allows you to use JavaScript directly in your html file or to link the location of the script.js file to your html page.
 Using linked files will increase processing time for your website but your code will be cleaner if separated from the html file and after the JS files have been cached by the computer it will help reduce excess load time.
