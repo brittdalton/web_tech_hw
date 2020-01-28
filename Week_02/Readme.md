@@ -2,9 +2,15 @@
 
 ## Weekly Summary ##
 
-* Review [MART341 Box Model](https://montana-media-arts.github.io/mart341-webDev/modules/week-9/overview/)
-* Review [MART341 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
-* Review [MART341 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
+#### Resources ####
+
+* [MART341 Box Model](https://montana-media-arts.github.io/mart341-webDev/modules/week-9/overview/)
+* [MART341 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
+* [MART341 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
+* [JavaScript Webpage](https://www.javascript.com)
+* [Book: Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=dp_ob_title_bk)
+* [Code Academy: Introduction](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro?action=resume_content_item)
+* [Coding App Grasshopper](https://grasshopper.app)
 ---
 * **HTML** Hyper Text Markup Language provides the basic structure of sites, which is enhanced and modified by other tech like CSS and JavaScript.
 * **CSS** Cascading Style Sheets control presentation, formatting and layout.
