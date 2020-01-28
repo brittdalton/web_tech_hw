@@ -1,4 +1,4 @@
-Console.log("Hello World!")
+console.log("Hello World!")
 
 console.log("Fav_website_Netflix")
 console.log("Fav_website_Pottery_barn_online_catalog")
