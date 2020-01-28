@@ -4,9 +4,9 @@
 
 ##### This week's work #####
 
-* Review [MART314 Box Model](https://montana-media-arts.github.io/mart341-webDev/modules/week-9/overview/)
-* Review [MART314 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
-* Review [MART314 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
+* Review [MART341 Box Model](https://montana-media-arts.github.io/mart341-webDev/modules/week-9/overview/)
+* Review [MART341 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
+* Review [MART341 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
 ---
 * **HTML** Hyper Text Markup Language provides the basic structure of sites, which is enhanced and modified by other tech like CSS and JavaScript.
 * **CSS** Cascading Style Sheets control presentation, formatting and layout.
