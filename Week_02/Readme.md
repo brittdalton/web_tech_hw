@@ -12,7 +12,7 @@
 * **CSS** Cascading Style Sheets control presentation, formatting and layout.
 * **JavaScript** A dynamic programming language that controls the behavior of different elements.
 ---
-#### Introduction to JavaScript #### 
+#### Introduction to JavaScript ####
 * JavaScript allows developers to create interactive sites
 * JavaScript can also be used to build mobile apps, interactive games, forms, and server-based applications
 * JavaScript (JS) is a very popular language due to the availability of tools developed to work with JS on a browser known as APIs
@@ -43,10 +43,11 @@
 ###### Executing Statements ######
 >Console.log() is a statement that uses a function, this statement prints directly to the JS web console. Within the Console.log function we placed a string as the sole input "Hello World". A string is any set of text including letters, numbers and special characters. Strings can be surrounded by single quotation marks '' or double quotation marks ""
 
-> - [Web Tech Course Website | Script Tag](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-2/js-in-html/)
 
 ###### Script Tag ######
 **<script> </script>**
 **<script src="URL-to-file.js"></script>**
 >The script tag <script> </script> allows you to use JavaScript directly in your html file or to link the location of the script.js file to your html page.
 Using linked files will increase processing time for your website but your code will be cleaner if separated from the html file and after the JS files have been cached by the computer it will help reduce excess load time.
+
+> - [Web Tech Course Website | Script Tag](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-2/js-in-html/)
