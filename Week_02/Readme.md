@@ -12,7 +12,7 @@
 * **CSS** Cascading Style Sheets control presentation, formatting and layout.
 * **JavaScript** A dynamic programming language that controls the behavior of different elements.
 ---
-* Introduction to **JavaScript**
+#### Introduction to JavaScript #### 
 * JavaScript allows developers to create interactive sites
 * JavaScript can also be used to build mobile apps, interactive games, forms, and server-based applications
 * JavaScript (JS) is a very popular language due to the availability of tools developed to work with JS on a browser known as APIs
