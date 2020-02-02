@@ -17,17 +17,34 @@
 * **JavaScript** A dynamic programming language that controls the behavior of different elements.
 ---
 #### Values - Data Types - Operators ####
-* JavaScript allows developers to create interactive sites
-* JavaScript can also be used to build mobile apps, interactive games, forms, and server-based applications
-* JavaScript (JS) is a very popular language due to the availability of tools developed to work with JS on a browser known as APIs
+
+* **Values**
+  * Regular Values
+  * Empty values
+    Null - Undefined
 * **[Data Types](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-3/types-values/)**  
   * Numbers
     * regular
     * special
   * Strings
     * regular "Hello World"
-    * special /n
-    * template literal strings  //these use backticks and have special properties
+    * special /n next line /t tab
+    * template literal strings - these use backticks and have special properties
+  * Booleans
+* **Operators**
+  *  Math operators
+    * addition, subtraction, multiplication, division, and modulo + - * / %
+  * String operators
+    * string concatenation '+'
+  * Unary operators
+    * 'typeof'
+  * Comparison Operators
+    * < > <= >= == !=
+    * greater than, less than, equal to and not equal to
+  * Logical Operators
+    * ||  &&  !
+    * or, and, not
+  * Type conversion
 * **p5.js** Many artists learning to code begin with [processing software](https://processing.org), using a JavaScript library [p5.js](https://p5js.org) you can "draw" in a web browser. The basic features are familiar tools to create simple designs; shapes, colors and composition.
 ---
 #### Begin to use JavaScript by executing statements with console.log ####
