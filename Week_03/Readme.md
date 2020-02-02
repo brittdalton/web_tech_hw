@@ -20,7 +20,7 @@
 * JavaScript allows developers to create interactive sites
 * JavaScript can also be used to build mobile apps, interactive games, forms, and server-based applications
 * JavaScript (JS) is a very popular language due to the availability of tools developed to work with JS on a browser known as APIs
-* **Data Types**  //https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-3/types-values/
+* **[Data Types](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-3/types-values/)**  
   * Numbers
     * regular
     * special
