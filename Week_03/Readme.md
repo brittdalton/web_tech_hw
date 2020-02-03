@@ -5,15 +5,15 @@
 #### Resources ####
 
 * [Eloquent JavaScript | CH 1 Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
-* [MART341 Responsive Web Design](https://montana-media-arts.github.io/mart341-webDev/modules/week-10/overview/)
-* [MART341 Using CSS](https://montana-media-arts.github.io/mart341-webDev/modules/week-11/overview/)
-* [JavaScript Webpage](https://www.javascript.com)
+* [Eloquent JavaScript | CH 2 Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+* [Control flow statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+* [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 * [Book: Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=dp_ob_title_bk)
 * [Code Academy: Introduction](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro?action=resume_content_item)
 * [onclick event](https://www.w3schools.com/jsref/event_onclick.asp)
 ---
-* **HTML** Hyper Text Markup Language provides the basic structure of sites, which is enhanced and modified by other tech like CSS and JavaScript.
-* **CSS** Cascading Style Sheets control presentation, formatting and layout.
+* **Statement** Define what the script will do and how it will be done.
+* **Expression** A fragment of code that produces a value.
 * **JavaScript** A dynamic programming language that controls the behavior of different elements.
 ---
 #### Values - Data Types - Operators ####
@@ -45,7 +45,17 @@
     * ||  &&  !
     * or, and, not
   * Type conversion
-* **p5.js** Many artists learning to code begin with [processing software](https://processing.org), using a JavaScript library [p5.js](https://p5js.org) you can "draw" in a web browser. The basic features are familiar tools to create simple designs; shapes, colors and composition.
+* **Expressions and Statements**
+  *   Bindings
+    * let
+    * var
+    * const  (unchangeable)
+* **Functions**
+- A piece of program wrapped in value
+- Values need to be applied in order to run the wrapped program
+- Requires parenthesis after an expression
+- Functions can produce side effects and return values
+  Example = console.log()   prompt()
 ---
 #### Begin to use JavaScript by executing statements with console.log ####
 
