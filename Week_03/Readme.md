@@ -16,7 +16,7 @@
 * **Expression** A fragment of code that produces a value.
 * **JavaScript** A dynamic programming language that controls the behavior of different elements.
 ---
-#### Values - Data Types - Operators ####
+#### Expressions and Statements ####
 
 * **Values**
   * Regular Values
@@ -45,17 +45,12 @@
     * ||  &&  !
     * or, and, not
   * Type conversion
-* **Expressions and Statements**
-  *   Bindings
-    * let
-    * var
-    * const  (unchangeable)
 * **Functions**
-- A piece of program wrapped in value
-- Values need to be applied in order to run the wrapped program
-- Requires parenthesis after an expression
-- Functions can produce side effects and return values
-  Example = console.log()   prompt()
+  * A piece of program wrapped in value
+  * Values need to be applied in order to run the wrapped program
+  * Requires parenthesis after an expression
+  * Functions can produce side effects and return values
+      Example = console.log()   prompt()
 ---
 #### Begin to use JavaScript by executing statements with console.log ####
 
@@ -80,10 +75,12 @@
 >Console.log() is a statement that uses a function, this statement prints directly to the JS web console. Within the Console.log function we placed a string as the sole input "Hello World". A string is any set of text including letters, numbers and special characters. Strings can be surrounded by single quotation marks '' or double quotation marks ""
 
 
-###### Script Tag ######
-**<script> </script>**
+###### Bindings ######
 
-**<script src="URL-to-file.js"></script>**
+**let**
+**var**
+**const**  (unchangeable)
+
 >The script tag <script> </script> allows you to use JavaScript directly in your html file or to link the location of the script.js file to your html page.
 Using linked files will increase processing time for your website but your code will be cleaner if separated from the html file and after the JS files have been cached by the computer it will help reduce excess load time.
 
