@@ -9,12 +9,13 @@
 * [Control flow statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 * [JavaScript Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 * [Book: Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=dp_ob_title_bk)
-* [Code Academy: Introduction](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro?action=resume_content_item)
+* [Code Academy: JS Lesson 1 Section 4-10](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro?action=resume_content_item)
+* [Grasshopper: work up to variables](https://grasshopper.app)
 * [onclick event](https://www.w3schools.com/jsref/event_onclick.asp)
 ---
 * **Statement** Define what the script will do and how it will be done.
 * **Expression** A fragment of code that produces a value.
-* **JavaScript** A dynamic programming language that controls the behavior of different elements.
+* **DOM** Document Object Model is a cross platform, language independent interface that creates logical structure within hmtl document
 ---
 #### Expressions and Statements ####
 
@@ -22,7 +23,7 @@
   * Regular Values
   * Empty values
     Null - Undefined
-* **[Data Types](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-3/types-values/)**  
+* **Data Types** [More info](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-3/types-values/)
   * Numbers
     * regular
     * special
@@ -45,21 +46,35 @@
     * ||  &&  !
     * or, and, not
   * Type conversion
-* **Functions**
+* **Functions(){
+
+  }**
   * A piece of program wrapped in value
   * Values need to be applied in order to run the wrapped program
   * Requires parenthesis after an expression
   * Functions can produce side effects and return values
       Example = console.log()   prompt()
+* **Control Flow**  
+  * if(){}    if it is true do this
+  * if(){} / else if(){}     if it is true do this - if it is false do this
+  * if(){} / else if(){} / else{}   if this is chosen do this - this then do this - this then do this
+  * while(){}    loop - while this is true do this
+  * do{}while()  loop - do this at least once (example start screen on game)
+  * break      
+  * switch   
+* **Bindings**
+  * let
+  * var
+  * const  (unchangeable)
 ---
-#### Begin to use JavaScript by executing statements with console.log ####
+#### Explore interactive elements by creating choose your own story ####
 
 
 ##### What steps did you take to complete the assignment? #####
-1. Design Layout
-2. Formatted design around focus areas
-3. Responsive Web Design
-4. Parallax Scrolling
+1. Set up week 03 folder structure
+2. Create script file for JS statements
+3. Write story for choose your own story path
+4. Assign control flow to options
 5. Write content - consulting website
 6. Added links for HW to the main page website
 
@@ -71,17 +86,6 @@
 4. Verify the statement was executed via the web console
 
 
-###### Executing Statements ######
->Console.log() is a statement that uses a function, this statement prints directly to the JS web console. Within the Console.log function we placed a string as the sole input "Hello World". A string is any set of text including letters, numbers and special characters. Strings can be surrounded by single quotation marks '' or double quotation marks ""
 
-
-###### Bindings ######
-
-**let**
-**var**
-**const**  (unchangeable)
-
->The script tag <script> </script> allows you to use JavaScript directly in your html file or to link the location of the script.js file to your html page.
-Using linked files will increase processing time for your website but your code will be cleaner if separated from the html file and after the JS files have been cached by the computer it will help reduce excess load time.
-
-> - [Web Tech Course Website | Script Tag](https://montana-media-arts.github.io/441-web-tech-Spring2020-course/modules/week-2/js-in-html/)
+###### Issues ######
+>discuss successes, challenges and how you overcame them
