@@ -48,7 +48,6 @@
   * Type conversion
 * **Functions(){**
 
-  **}**
   * A piece of program wrapped in value
   * Values need to be applied in order to run the wrapped program
   * Requires parenthesis after an expression
