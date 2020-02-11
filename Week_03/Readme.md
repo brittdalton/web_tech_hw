@@ -77,12 +77,7 @@
 5. Write content - consulting website
 6. Added links for HW to the main page website
 
-##### Executing First Statement with Command Line #####
-1. Enable developer tools in browser
-2. Access the Console
-3. Create .html file
-3. Type the following: Console.log("Hello World")
-4. Verify the statement was executed via the web console
+
 
 
 
